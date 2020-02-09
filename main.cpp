@@ -19,7 +19,7 @@ shoot me an email! augustgl@protonmail.ch
                       \ /~~~~\~~\   )--- \_ /(						Shepherds the weak through the valley of darkness, for he his truly his brothers keeper
                        ||     |  | \   ()   \\						and the finder of lost children.
                        \\____/_ / ()\        \\	
-                        `~~~~~~~~~-. \        \\					and I will strike down apon the with great vengeance and furios anger, those who attempt
+                        `~~~~~~~~~-. \        \\					and I will strike down apon thee with great vengeance and furious anger, those who attempt
                                     \ \  <($)> \\					to poison and destroy my brothers, and you will know my name is the LORD 
                                      \ \        \\					when I lay my vengeance apon thee
                                       \ \        \\								
