@@ -8,6 +8,33 @@ shoot me an email! augustgl@protonmail.ch
 
 */
 
+/*
+
+
+  +-'~`---------------------------------/\--						ezekiel 25:17
+ ||"""""""""""""""""""""""""""""""" \\\\\\  \/~)
+ ||                                  \\\\\\  \/_
+  |~~~~~~~~-________________-_________________\ ~--_					The path of the righteous man is beset on all sides by the inequeties of the selfish
+  !---------|_________       ------~~~~~(--   )--~~					and the tyranny of evil men. Blessed is he who in the name of charity and goodwill 
+                      \ /~~~~\~~\   )--- \_ /(						Shepherds the weak through the valley of darkness, for he his truly his brothers keeper
+                       ||     |  | \   ()   \\						and the finder of lost children.
+                       \\____/_ / ()\        \\	
+                        `~~~~~~~~~-. \        \\					and I will strike down apon the with great vengeance and furios anger, those who attempt
+                                    \ \  <($)> \\					to poison and destroy my brothers, and you will know my name is the LORD 
+                                     \ \        \\					when I lay my vengeance apon thee
+                                      \ \        \\								
+                                       \ \        \\
+                                        \ \  ()    \|
+                                        _\_\__====~~~
+
+	
+	CUZ IT'S SAD, THAT TIME TURNED IT'S BACK ON US
+	LIKE A WOOD CHIPPER EATING UP THE LUMBER
+	IT TURNS IN THE DUST, IT FLOATS IN THE AIR
+	TO PROVE WHAT WE HAVE LOST
+
+*/
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include "config.h"
