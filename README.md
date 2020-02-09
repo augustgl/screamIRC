@@ -1,6 +1,11 @@
 # screamIRC
 
-open source windows IRC bot. Features:
+open source windows IRC bot. \
+there's not really a whole lot of good windows IRC botnets out there, so I thought i would pull one together for myself. 
+we looked through a ton of archvies and found some bot with the only feature of one exploit spreading.
+here you go. 
+
+Features:
 
 1. load to one bot
 2. load to all bots
@@ -11,6 +16,8 @@ all bots have a randomly generated nickname prefaced by [WINDOWS]
 will add more features
 
 \#hackerlife2k20
+
+EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS
 
 ## Getting Started
 
